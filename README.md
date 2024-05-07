@@ -1,2 +1,3 @@
 # Projecto_5
  
+Neste exercício, buscamos aprimorar nossas habilidades na utilização da biblioteca Plotly Express para análise gráfica de variáveis em um dataset amplamente reconhecido: o de cancelamento de cartões de crédito. Antes de entrar na visualização dos dados, realizamos uma série de etapas preparatórias, incluindo a exploração do dataset, análise descritiva e estatísticas, perfil dos clientes, padrões de utilização do cartão de crédito, correlações entre as variáveis e segmentação dos clientes. Essas etapas visaram fornecer uma compreensão abrangente do conjunto de dados e preparar o terreno para uma análise visual mais detalhada.
